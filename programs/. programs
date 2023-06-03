@@ -1,0 +1,17 @@
+{
+
+    "SMS_Forwarder": {
+
+        "zipurl": "https://github.com/GreyTechno/SMS_Forwarder/archive/refs/heads/main.zip",
+
+        "dependencies": [
+
+            "requests",
+
+            "pwinput"
+
+        ]
+
+    }
+
+}
