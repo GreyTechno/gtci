@@ -1,6 +1,6 @@
 {
     "version": "0.0.6",
-    "rootzip": "https://github.com/GreyTechno/gtf/archive/refs/heads/main.zip",
+    "rootzip": "https://github.com/GreyTechno/gtci/archive/refs/heads/main.zip",
     "auther": "mr_gt",
-    "pakage": "gtf"
+    "pakage": "gtci"
 }
