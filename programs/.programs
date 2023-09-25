@@ -1,13 +1,16 @@
 {
-    "SMS_Forwarder": {
-        "zipurl": "https://github.com/GreyTechno/SMS_Forwarder/archive/refs/heads/main.zip",
+    "sms_forwarder": {
+        "zipurl": "https://github.com/GreyTechno/sms_forwarder/archive/refs/heads/main.zip",
         "platforms": {
             "supported_platforms":"os_dependent",
             "supported_os":"Termux"
         },
         "dependencies": [
             "requests",
-            "pwinput"
+            "random2",
+            "secure-smtplib",
+            "tqdm",
+            "zipfile36",
         ]
     }
 }
