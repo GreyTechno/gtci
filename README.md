@@ -5,7 +5,7 @@
 <p align="center"><b>A beginner-friendly, fast and easy installation.</b></p>
 
 ## Supported Tools
-- <a href="https://github.com/GreyTechno/SMS_Forwarder">SMS_Forwarder</a>
+- <a href="https://github.com/GreyTechno/sms_forwarder">sms_forwarder</a>
 
 ## REQUIREMENTS
 - <a href="https://python.org">Python3</a>
