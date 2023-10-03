@@ -11,7 +11,7 @@
             "secure-smtplib",
             "tqdm",
             "zipfile36",
-            "flask",
+            "flask"
         ]
     }
 }
