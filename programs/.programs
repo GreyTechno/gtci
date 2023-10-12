@@ -9,7 +9,6 @@
             "requests",
             "random2",
             "secure-smtplib",
-            "tqdm",
             "zipfile36",
             "flask"
         ]
