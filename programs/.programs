@@ -11,7 +11,8 @@
             "secure-smtplib",
             "zipfile36",
             "flask",
-            "pygsheets"
+            "pygsheets",
+            "telebot"
         ]
     }
 }
