@@ -10,7 +10,8 @@
             "random2",
             "secure-smtplib",
             "zipfile36",
-            "flask"
+            "flask",
+            "pygsheets"
         ]
     }
 }
